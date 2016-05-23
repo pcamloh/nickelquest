@@ -1,0 +1,14 @@
+.navlist 
+{
+color: #FFF;
+padding-top: 5px !important;
+}
+
+.navlist:hover
+{
+color: yellow  !important;
+padding-top: 0px !important;
+border-top: 5px solid !important;
+border-color: yellow !important;
+background-color:#000066 !important;
+}
