@@ -12,3 +12,42 @@ border-top: 5px solid !important;
 border-color: yellow !important;
 background-color:#000066 !important;
 }
+
+.cheevocontainer
+{
+margin-left: 20px; 
+margin-right: 20px;
+float:left;
+width: 100%;
+}
+
+.cheevosubcontainer
+{
+float: left;
+width: 30%;
+margin-bottom: 25px;
+}
+
+.cheevologo
+{
+margin:center;
+}
+
+.cheevoname
+{
+font-weight: bold;
+}
+
+.cheevoblurb
+{
+}
+
+.cheevoreward
+{
+font-weight:bold;
+font-style:oblique;
+}
+
+.cheevoprogress
+{
+}
